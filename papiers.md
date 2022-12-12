@@ -4,7 +4,9 @@ title: Les Papiers
 subtitle: ......
 ---
 # Les Papiers
-Ces sont les papiers de nos groupe. Lisez-les s'il vous plait!
+Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
+
+## Octobre 2019
 ### 2019/10/30
 - *Novel positional encodings to enable tree-based transformers*, Yongmin Li
 ### 2019/12/25
