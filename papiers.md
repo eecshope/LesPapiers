@@ -1,3 +1,8 @@
+---
+layout: page
+title: Les Papiers
+subtitle: ......
+---
 # Les Papiers
 Ces sont les papiers de nos groupe. Lisez-les s'il vous plait!
 ## Decembre 2022
