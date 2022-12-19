@@ -94,9 +94,15 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *CodeRetriever: Unimodal and Bimodal Contrastive Learning for Code Search*, EMNLP 2022, Yunfei Zhao
 
 ## Decembre 2022
-### Decembre 12th
+### Decembre 12
 - *No More Fine-tuning? An Experimental Evluation of Prompt Tuning in Code Intelligence*, Wang et al., FSE 2022, Jia Li
 - *Code Generation Tools (Almost) for Free? A Study of Few-Shot, Pre-Trained Language Models on Code*, Bareiβ, arXiv, Jia Li
 - *DocPrompting: Genenrating Code By Retrieving the Docs*, Zhou et al., arXiv 2207.05987, Yongmin Li
 - *COMET: A Neural Framework for MT Evaluation*, Rei et al., EMNLP 2020, Yihong Dong
 - *UniTE: Unified Translation Evaluation*, Wan et al., ACL (1) 2022, Yihong Dong
+### Decembre 19
+- *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*, Wei et al., nips 2022, Xue Jiang
+- *Least-to-Most Prompting Enables Complex Reasoning in Large Language Models*, Zhou et al., ICLR 2023 **Under Review**, Xue Jiang
+- *PAL: Program-aided Language Models*, Gao et al., arXiv, Xue Jiang
+- *XPrompt: Exploring the Extreme of Prompt Tuning*, Ma et al., EMNLP 2022, Han Peng
+- *An Explanation of In-Context learning as Implicit Bayesian Inference*, Xie et al., ICLR 2022, Zejun Wang
