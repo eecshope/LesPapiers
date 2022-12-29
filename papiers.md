@@ -101,8 +101,12 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *COMET: A Neural Framework for MT Evaluation*, Rei et al., EMNLP 2020, Yihong Dong
 - *UniTE: Unified Translation Evaluation*, Wan et al., ACL (1) 2022, Yihong Dong
 ### Decembre 19
-- *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*, Wei et al., nips 2022, Xue Jiang
+- *Chain-of-Thought Prompting Elicits Reasoning in Large Language Models*, Wei et al., Nips 2022, Xue Jiang
 - *Least-to-Most Prompting Enables Complex Reasoning in Large Language Models*, Zhou et al., ICLR 2023 **Under Review**, Xue Jiang
 - *PAL: Program-aided Language Models*, Gao et al., arXiv, Xue Jiang
 - *XPrompt: Exploring the Extreme of Prompt Tuning*, Ma et al., EMNLP 2022, Han Peng
 - *An Explanation of In-Context learning as Implicit Bayesian Inference*, Xie et al., ICLR 2022, Zejun Wang
+### Decembre 29
+- *A Contrastive Framework for Neural Text Generation*, Su et al., Nips 2022, Yunfei Zhao
+- *SAS: Self-Augmentation Strategy for Langauge Model Pre-training*, Xu et al., AAAI 2022, Haojie Zhang
+- *Learning to Retrieve Prompts for In-Context Learning*, Rubin et all, NAACL 2022, Kechi Zhang
