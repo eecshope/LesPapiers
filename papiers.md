@@ -110,3 +110,8 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *A Contrastive Framework for Neural Text Generation*, Su et al., Nips 2022, Yunfei Zhao
 - *SAS: Self-Augmentation Strategy for Langauge Model Pre-training*, Xu et al., AAAI 2022, Haojie Zhang
 - *Learning to Retrieve Prompts for In-Context Learning*, Rubin et all, NAACL 2022, Kechi Zhang
+## Janvier 2023
+### Janvier 5
+- *ReCode: Robustness Evaluation of Code Generation Models*, Wang et al., arXiv, Yuqi Zhu
+- *Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers*, Dai et al., arXiv, Jiaa Li
+- *Self-Instruct: Aligning Language Model with Self Generated Instructions*, Wang et al., arXiv, Zhuo Li
