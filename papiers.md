@@ -115,3 +115,8 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *ReCode: Robustness Evaluation of Code Generation Models*, Wang et al., arXiv, Yuqi Zhu
 - *Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers*, Dai et al., arXiv, Jiaa Li
 - *Self-Instruct: Aligning Language Model with Self Generated Instructions*, Wang et al., arXiv, Zhuo Li
+## Février 2023
+### Février 2
+- *Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks*, Wechu Chen et al., ?, Zheng Fang 
+- *Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching*, ?, ICSE 2022, Zhen Yang
+- *Explaining Software Bugs Leveraging Code Structures in Neural Maching Translation*, Mahbub et al, ICSE 2023, Mingyang Geng
