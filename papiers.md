@@ -120,3 +120,7 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks*, Wechu Chen et al., ?, Zheng Fang 
 - *Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching*, ?, ICSE 2022, Zhen Yang
 - *Explaining Software Bugs Leveraging Code Structures in Neural Maching Translation*, Mahbub et al, ICSE 2023, Mingyang Geng
+
+## Février 6
+- *CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation*, Dong et al., ISSTA 2023, Yihong Dong
+- *Large Langauge Models are reasoners with Self-Verification*, Weng et al., ?, Xue Jiang
