@@ -124,3 +124,10 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 ## Février 6
 - *CODEP: Grammatical Seq2Seq Model for General-Purpose Code Generation*, Dong et al., ISSTA 2023, Yihong Dong
 - *Large Langauge Models are reasoners with Self-Verification*, Weng et al., ?, Xue Jiang
+
+## Février 13
+- *CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models*, Yu et al., ?, Yongmin Li
+- *Soft-labeled Contrastive Pre-training for Fucntion-level Code Representation*, Li et al., EMNLP 2022, Han Peng
+- *Tailoring Langauge Generation Models under Total Variation Distance*, Ji et al., ICLR 2023, Zejun Wang
+- *Encoding Recurrence into Transformers*, Huang et al., ICLR 2023, Zejun Wang
+- *CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context*, Ding et al., ?, Yunfei Zhao
