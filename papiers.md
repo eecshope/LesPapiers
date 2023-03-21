@@ -131,3 +131,24 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *Tailoring Langauge Generation Models under Total Variation Distance*, Ji et al., ICLR 2023, Zejun Wang
 - *Encoding Recurrence into Transformers*, Huang et al., ICLR 2023, Zejun Wang
 - *CoCoMIC: Code Completion By Jointly Modeling In-file and Cross-file Context*, Ding et al., ?, Yunfei Zhao
+
+## Février 20
+- *Funnel-Transformer: Filtering out Sequential Redundancy for Efficient Language Processing*, Dai et al., Nips 2020, Haojie Zhang
+- *Toolformer: Language Models Can Teach Themselves to Use Tools*, Schick et al., ?, Kechi Zhang
+- *Gradient-Based Constrained Sampling from Language Models*, Kumar et al., EMNLP 2022, Yuqi Zhu
+
+## Mars 7
+- *Prompt Injection: Parameterization of Fixed Inputs*, Choi et al., ICLR 2023 **Withdraw**, Huangzhao Zhang
+- *PromptAttack: Prompt-based Attack for Language Models via Gradient Search*, Shi et al., NLPCC 2022, Huangzhao zhang
+- *Ignore Previous Prompt: Attack Techniques For Lanugage Models*, Parez et al., NIPS 2022, Huangzhao Zhang
+- *Practical Program Repair in the Era of Large Pre-trained Language Models*, Xia et al., ICSE 2022, Yuwei Zhang
+
+## Mars 14
+- *Planning with Large Language Models for Code Generation*, Zhang et al., ICLR 2023, Zheng Fang
+- *Automating Code-Related Tasks Through Transformers: The Impact of Pre-training*, Tufano et al., ICSE 2023, Yongmin Li
+
+## Mars 21
+- *DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models*, Gong et al., ICLR 2023, Yihong Dong
+- *Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning*, Nashid et al., ICSE 2023, Mingyang Geng
+- *Larger language models do in-context learning differently*, Wei et al., ?, Xue Jiang
+- *Is ChatGPT a General-Purpose Natural Language Processing Task Solver?*, Qin et al., ?, Han Peng
