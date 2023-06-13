@@ -152,3 +152,53 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning*, Nashid et al., ICSE 2023, Mingyang Geng
 - *Larger language models do in-context learning differently*, Wei et al., ?, Xue Jiang
 - *Is ChatGPT a General-Purpose Natural Language Processing Task Solver?*, Qin et al., ?, Han Peng
+
+## Mars 28
+- 
+- Symbolic Discovery of Optimization Algorithms 
+
+## Avril 4
+- *self-instruct: aligning language model with self generated instructions*
+- *Alpaca: A Strong, Replicable instruction-Following Model*
+- *Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%*
+- *On the Feasibility of Specialized Ability Stealing for Large Language Code Models*
+- *Large Langauge Model are ... Testers*
+- *CodeGeeX*
+## Avril 11
+- *RepoCoder: Repository-Level Code Completion Through Iterative Retrieve and Generation*
+- *A Watermark for Large Language Models*
+- *Visual ChatGPT: Talking, Erawing and Editing with Visual Foundation Models*
+- *HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face*
+## Avril 18
+- *teaching large language model to self-debug*
+- *Developer-Intent Driven Code Comment Generation*
+## Avril 25
+- *REPLUG: Retrieval-Augmented Black-Box Langauge Models*, Shi et al., 
+- *Large Lanugage Models are Di`verse Role-Players for Summarization Evaluation*, Wu et al., `
+
+
+## Mai 9
+- *Large Language Models Are Human-Level Prompt Engineers*
+- *API-Bank: A Benchmark for Tool-Augmented LLMs*
+
+## Mai 16
+- *Language Moels Don't Always Say What They Think: ...*
+- *Distilling Step-by-Step! Outperforming Larger Langauge Models with Liess Training Data and Smaller Model Sizes*
+- *Generating Sequences by Learning to Self-Correct*
+
+## Mai 23
+- *Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation*
+- *Examing vulnarable fix with Large language model*
+
+## juin 6
+- *Forward Gradient Descent*
+    - *Gradients without Backpropagation*
+    - *Scaling Forward Gradient With Local Losses*
+- *Tree of thoughts: Deliberate Problem Solving with Large Langauge Models*
+- *OlaGPT: Empowering LLMs With Human-like Problem-Solving Abilities*
+
+## juin 13
+- *Unleashing infinite-Length Input Capacity for Large-scale Language Models with Self-Contolled Memory System*
+- *Is Model Attention Align with Human Attention*
+- *Dropout Reduces Underfitting*
+- *A Simple and Effective ?*
