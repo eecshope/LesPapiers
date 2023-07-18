@@ -226,3 +226,5 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 ## juillet 18
 - *Can Large Language Models Write Good Property-Based Tests?*
 - *WizardLM: Empowering Large Language Models to Follow Complex Instructions*
+- *WizardCoder: Empowering Code Large Language Models with Evol-Instruct*
+- *Textbooks Are All You Need*
