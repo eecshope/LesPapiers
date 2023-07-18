@@ -164,6 +164,7 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *On the Feasibility of Specialized Ability Stealing for Large Language Code Models*
 - *Large Langauge Model are ... Testers*
 - *CodeGeeX*
+- 
 ## Avril 11
 - *RepoCoder: Repository-Level Code Completion Through Iterative Retrieve and Generation*
 - *A Watermark for Large Language Models*
@@ -182,7 +183,7 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *API-Bank: A Benchmark for Tool-Augmented LLMs*
 
 ## Mai 16
-- *Language Moels Don't Always Say What They Think: ...*
+- *Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting*
 - *Distilling Step-by-Step! Outperforming Larger Langauge Models with Liess Training Data and Smaller Model Sizes*
 - *Generating Sequences by Learning to Self-Correct*
 
@@ -202,3 +203,26 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *Is Model Attention Align with Human Attention*
 - *Dropout Reduces Underfitting*
 - *A Simple and Effective ?*
+
+## juin 20
+- *PRODIGY: Enabling In-context Learning Over Graphs*
+
+## juin 27
+- *Interpretability in the Wild: A Circuit for Indirect Object Identification in GPT-2 small*
+- *Self-Refine: Iterative Refinement with Self-Feedback*
+
+## juillet 4
+- *Calibrating Sequence Likelihood Improves Conditional Language Generation*
+- *Extending Context Window Of Large Language Models via Position Interpolation*
+
+## juillet 11
+- *LongCoder: A Long-Range Pre-trained Language Model for Code Completion*
+- *No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation*
+- *Draft, Sketch, and Prove: Guiding Formal Theorem Provers with Informal Proofs*
+- *ProofNet: Autoformalizing and Formally Proving Undergraduate-Level Mathematics*
+- *Baldur: Whole-Proof Generation and Repair with Large Language Models*
+- *LeanDojo: Theorem Proving with Retrieval-Augmented Language Models*
+
+## juillet 18
+- *Can Large Language Models Write Good Property-Based Tests?*
+- *WizardLM: Empowering Large Language Models to Follow Complex Instructions*
