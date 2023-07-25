@@ -228,3 +228,8 @@ Ces sont les papiers de notre groupe. Lisez-les s'il vous plait!
 - *WizardLM: Empowering Large Language Models to Follow Complex Instructions*
 - *WizardCoder: Empowering Code Large Language Models with Evol-Instruct*
 - *Textbooks Are All You Need*
+
+## juillet 25
+- *Hyperdecoders: Instance-specific decoders for multi-task NLP*
+- *Combing Parameter-efficient Modules for Task-level Generation*
+- *GLaM: Efficient Scaling of Language Models with Mixture-of-Experts*
